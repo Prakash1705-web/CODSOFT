@@ -1,4 +1,3 @@
-'''
 def add(a,b): 
     return a + b
 
@@ -59,7 +58,4 @@ while True:
     else:
         print("Enter the valid choice")
         print("\n")
-'''
 
-x = ""
-print(bool(x))
